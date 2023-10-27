@@ -1,0 +1,2 @@
+# danimerandomlist
+ダニメストアのランダム機能
